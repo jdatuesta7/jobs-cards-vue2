@@ -8,7 +8,7 @@
                 <div class="col-11">
                     <b-row>
                         <div class="col-12">
-                            <b-row>
+                            <b-row style="cursor: pointer;">
                                 <b-card-title class="text-start col-12 ps-3 pt-2">{{ company.jobTitle }}</b-card-title>
                             </b-row>
                         </div>
